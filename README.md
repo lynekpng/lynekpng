@@ -29,7 +29,7 @@ I'm Lyne, currently navigating through my newly found passion for coding. I've d
 
 - 🎨 **Creative Side**: I'm captivated by the beauty of music, poetry, and all things aesthetically pleasing. 
 - 🌍 **Adventure Seeker**: Driven by curiosity and inspired by people, I'm thriving when out of my comfort zone.
-- 🧠 **Science Enthusiast**: I've always loved biology classes. and before exploring the tech world, I was a psychology student. the human mind and behavior still fascinates me!
+- 🧠 **Science Enthusiast**: I've always loved biology classes. and before exploring the tech world, I was a psychology student. 
 
 ### Get in Touch 📫
 
