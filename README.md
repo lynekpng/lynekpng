@@ -8,19 +8,19 @@
 
 ### About Me
 
-I'm Lyne, currently navigating through my newly found passion for coding. I've discovered that coding is not just a skill but an art that allows me to solve problems creatively and build amazing things. Whether it's developing websites, exploring data, or creating innovative solutions, the endless possibilities of the tech world fascinate me. 🚀✨
+I'm Lyne, currently navigating through my newly found passion for coding. I've discovered that coding is not just a skill but an art that allows me to solve problems creatively and build amazing things. Whether it's developing websites, exploring data, or creating innovative solutions, the endless possibilities of the tech world inspire me. 🚀✨
 
 ### Skills & Interests
 
 - **Languages**: HTML, CSS, JavaScript (more to come as I learn!) 📚
 - **Frameworks and Tools**: React, Tailwind, Git, Docker 🔧
-- **Learning**: Typescript, PHP, 
+- **Learning**: Typescript, PHP 🌱
 - **Interests**: Web Development, UI/UX Design, Data Science 💻
 
 ### Pinned Projects Summary 🖼️
 
 - **🌤️ Weather App**: A simple weather app that provides current weather information for any city. This app is built with HTML, SASS, and JavaScript and uses the OpenWeatherMap API for weather data.
-- **🎶 The Collection**: A small collection of tunes I enjoy, hopeful that you might enjoy them too. Built with HTML, CSS, and JavaScript.
+- **🎧 The Collection**: A small collection of tunes I enjoy, hopeful that you might enjoy them too. Built with HTML, CSS, and JavaScript.
 - **💳 V-Card**: A virtual card of my info :)
 - **👟 AZ-Store**: Fictive shoe store built with PHP and JavaScript.
 - **💻 Tech-Talk**: Repository of tech talks I conducted during my traineeship at BeCode.
