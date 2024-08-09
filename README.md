@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Lyne! 👋
+# Hi there, I'm Lyne! 
 
 👩‍💻 Aspiring Developer | 🌟 Passionate Learner | 🎨 Creative Thinker
 
