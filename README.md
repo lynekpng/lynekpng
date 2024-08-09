@@ -1,12 +1,49 @@
-<h1 align="center">Hi there ! I'm Lyne</h1>
 
 
-<h3 align="left">Connect with me:</h3>
+# Hi there, I'm Lyne! 👋
+
+👩‍💻 Aspiring Developer | 🌟 Passionate Learner | 🎨 Creative Thinker
+
+---
+
+### About Me
+
+I'm Lyne, currently navigating through my newly found passion for coding. I've discovered that coding is not just a skill but an art that allows me to solve problems creatively and build amazing things. Whether it's developing websites, exploring data, or creating innovative solutions, the endless possibilities of the tech world fascinate me. 🚀✨
+
+### Skills & Interests
+
+- **Languages**: HTML, CSS, JavaScript (more to come as I learn!) 📚
+- **Frameworks and Tools**: React, Tailwind, Git, Docker 🔧
+- **Learning**: Typescript, PHP, 
+- **Interests**: Web Development, UI/UX Design, Data Science 💻
+
+### Pinned Projects Summary 🖼️
+
+- **🌤️ Weather App**: A simple weather app that provides current weather information for any city. This app is built with HTML, SASS, and JavaScript and uses the OpenWeatherMap API for weather data.
+- **🎶 The Collection**: A small collection of tunes I enjoy, hopeful that you might enjoy them too. Built with HTML, CSS, and JavaScript.
+- **💳 V-Card**: A virtual card of my info :)
+- **👟 AZ-Store**: Fictive shoe store built with PHP and JavaScript.
+- **💻 Tech-Talk**: Repository of tech talks I conducted during my traineeship at BeCode.
+
+### Fun Facts 🎉
+
+- 🎨 **Creative Side**: I'm captivated by the beauty of music, poetry, and all things aesthetically pleasing. 
+- 🌍 **Adventure Seeker**: Driven by curiosity and inspired by people, I'm thriving when out of my comfort zone.
+- 🧠 **Science Enthusiast**: I've always loved biology classes. and before exploring the tech world, I was a psychology student. the human mind and behavior still fascinates me!
+
+### Get in Touch 📫
+
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/lynekpng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lynekpng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/lyne-kapongo-tshilumbwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lyne-kapongo-tshilumbwa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/lynekpng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lynekpng/" height="30" width="40" /></a>
+  <a href="https://codepen.io/lynekpng" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lynekpng" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/lyne-kapongo-tshilumbwa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyne-kapongo-tshilumbwa" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/lynekpng/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lynekpng" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
