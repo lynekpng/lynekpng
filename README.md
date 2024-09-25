@@ -24,6 +24,7 @@ I'm Lyne, currently navigating through my newly found passion for coding. I've d
 - **💳 V-Card**: A virtual card of my info :)
 - **👟 AZ-Store**: Fictive shoe store built with PHP and JavaScript.
 - **💻 Tech-Talk**: Repository of tech talks I conducted during my traineeship at BeCode.
+-  **💅 Pretty Social Club (In Progress)**: A community-driven beauty salon aiming to bring women together around the shared passion for beauty. Inclusive and diverse, it promotes beauty in all forms and creates a welcoming space that’s makes you feel like home.
 
 ### Fun Facts 🎉
 
