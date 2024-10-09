@@ -35,15 +35,11 @@ I'm Lyne, currently navigating through my newly found passion for coding. I've d
 ### Get in Touch 📫
 
 <p align="left">
-  <a href="https://codepen.io/lynekpng" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lynekpng" height="30" width="40" />
-  </a>
+ 
   <a href="https://linkedin.com/in/lyne-kapongo-tshilumbwa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyne-kapongo-tshilumbwa" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/lynekpng/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lynekpng" height="30" width="40" />
-  </a>
+ 
 </p>
 
 ---
